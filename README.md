@@ -113,4 +113,4 @@ Get-Content data\addresses_location.txt | .\vm.exe
 Foi utilizada a ferramenta Claude (Anthropic) durante o desenvolvimento,
 seguindo a metodologia Spec-Driven Development (SDD). Os prompts utilizados
 por cada integrante estão documentados na Seção 7 do relatório técnico
-(`report/relatorio_tp2.pdf`).
+(`report/Relatorio.pdf`).
